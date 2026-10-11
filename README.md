@@ -59,8 +59,9 @@ A minimal productivity and focus-tracking application designed to help users bui
 
 ## 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/onurselcukunsal)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/onur-selçuk-ünsal-30b17a331)
+- GitHub: [@onurselcukunsal](https://github.com/onurselcukunsal)
+- LinkedIn: [Onur Selçuk Ünsal](www.linkedin.com/in/onur-selçuk-ünsal-30b17a331)
+- Instagram: @onurselcukunsal
 
 ---
 
