@@ -60,7 +60,7 @@ A minimal productivity and focus-tracking application designed to help users bui
 ## 📫 Connect With Me
 
 - GitHub: [@onurselcukunsal](https://github.com/onurselcukunsal)
-- LinkedIn: [Onur Selçuk Ünsal](www.linkedin.com/in/onur-selçuk-ünsal-30b17a331)
+- LinkedIn: [Onur Selçuk Ünsal](www.linkedin.com/in/onur-selçuk-ünsal)
 - Instagram: @onurselcukunsal
 
 ---
